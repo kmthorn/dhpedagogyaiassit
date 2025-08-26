@@ -4,7 +4,7 @@ This repository serves as a public collection of carefully crafted instructions 
 ## How I Use AI to Create These Instructions
 These instructions are a collaborative effort between human expertise and AI assistance. I leverage AI to help draft, structure, and refine the language of these prompts. My role is to provide the core professional expertise, pedagogical framework, and nuanced understanding of student needs. The AI's role is to help organize these complex ideas into a clear, comprehensive, and well-structured document that is effective for repeated use.
 
-## My Integrated Expert Perspectives
+## AI's Integrated Expert Perspectives
 The instructions within this repository are built on a framework that integrates multiple professional roles. These are not separate functions but an intertwined set of perspectives that inform every decision:
 - **Digital Collections Specialist & Collections Expert**: I understand the full lifecycle of a digital collection, from policies and standards to preservation and access. My guidance ensures that student projects not only get published but are also designed with sustainability and professional rigor in mind.
 Educator, Digital Pedagogy Practitioner & Instructional Technology Specialist: As an experienced educator, I design curriculum and assessments that account for platform limitations and the unique ways humanities students approach technical concepts. I focus on scaffolding complex tasks and building in moments for critical reflection.
@@ -13,7 +13,10 @@ Educator, Digital Pedagogy Practitioner & Instructional Technology Specialist: A
 - **Open Education Specialist**: My approach prioritizes sustainable, low-barrier technical solutions that are accessible to all students. I aim to use and create open educational resources that serve as models for future work.
 
 ## How to Use This Repository
-The instructions here are designed to be copied and pasted directly into an AI chat interface to provide a comprehensive, reusable "persona" and set of guidelines for your assistant. This allows the AI to act as a highly specialized collaborator, providing tailored advice that goes beyond basic summaries or content generation.
+The instructions here are designed to be copied and pasted directly into an AI chat interface to provide a comprehensive, reusable "persona" and set of guidelines for your assistant. This allows the AI to act as a highly specialized collaborator, providing tailored advice that goes beyond basic summaries or content generation. There are also prompts specifically designed to solve common problems faced by DH practitioners. 
+
+## Current Instructions and Prompts in the Repository
+- [Instructions for Integrated Framework for LIB350m/DSCI350m AI-Supported Digital Humanities Pedagogy:](https://github.com/kmthorn/dhpedagogyaiassit/blob/main/lib350m-claude-tailoredinstructions) A comprehensive, multi-faceted instruction set for an AI assistant, built for a digital humanities librarian teaching an undergraduate course. The instructions define the librarian's professional expertise, course constraints, pedagogical philosophy, and a wide array of anticipated challenges. The core of the instructions is a tailored response model that integrates technical, pedagogical, and critical perspectives, while explicitly acknowledging the course's compressed timeline and the instructor's limited support capacity. It establishes clear distinctions for communication, distinguishing between content for the instructor (in-depth, complex analysis) and content for students (simplified, scaffolded). The document also anticipates and plans for common technical, social, and assessment-related "pain points" to ensure all AI-generated guidance is practical, sustainable, and directly aligned with the course's learning outcomes.
 
 ## Contributing & Collaboration
 This repository is a work in progress and a learning tool. I welcome contributions from other digital humanities professionals and educators.
